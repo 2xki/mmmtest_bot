@@ -22,13 +22,7 @@ Du musst für jedes fach den Code neu einfügen.
 
 ## Lerning
 
-Wenn du dem bot neue Fragen beibringen willst, musst du die JSON data updaten. bot_learning.js wird die fragen durchgehen und wenn es eine Falsch beantwortet diese zu jsonData hinzufügen. Am Ende musst du die jsonData exportieren und in den Code einfürgen.
-
-Json exportieren:
-
-```javascript 
-    JSON.stringify(jsonData);
-```
+Um neue Fragen zu lernen, verwende die `bot_learing.js`. Am Ende wird dir ein Fenster mit dem neu generiertem Code ausgegeben.
 
 # LICENCE
 
