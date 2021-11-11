@@ -1,8 +1,12 @@
 # MMMTest Bot
 
-Ein bot für die  [mmmtest](https://www.mmmtest.at) Fahrschul lern Software.
-Er kann alle frage von B Grund und Spezialwissen. 
-Mann kann aber mit der bot_lerning.js dem bot auch noch andere Fragen beibringen.
+## Disclamer
+
+**Der Bot ist nur als Demonstration und für Schulischen Zwecke gedacht!!**
+**Ich übernehme keine Verantwortung für die Verwendung oder Konsequenzen!!**
+
+Ein Bot für die  [mmmtest](https://www.mmmtest.at) Fahrschul lern Software.
+Mann kann aber mit der bot_lerning.js dem Bot auch noch andere Fragen beibringen.
 
 ---
 
